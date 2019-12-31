@@ -57,7 +57,7 @@ You can read more [about YB-TServers](../yb-tserver).
 
 The **YB-Master** (aka the *YugabyteDB Master Server*) processes are responsible for keeping system metadata, coordinating system-wide operations such as create/alter/drop tables, and initiating maintenance operations such as load-balancing.
 
-You can read more [about YB-TServers](../yb-tserver).
+You can read more [about YB-Masters](../yb-master).
 
 Below is an illustration of a simple 4-node Yugabyte universe:
 
